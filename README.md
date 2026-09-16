@@ -5,7 +5,7 @@ The game provides a simple two-player experience with turn management, winner de
 
 ## Live Demo
 
-[Play Tic-Tac-Toe](YOUR-LIVE-DEMO-LINK)
+[Play Tic-Tac-Toe]([YOUR-LIVE-DEMO-LINK](https://mr-sanket01.github.io/tic-tac-toe/))
 
 ## Features
 
