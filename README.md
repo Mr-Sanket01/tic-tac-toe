@@ -47,5 +47,18 @@ tic-tac-toe/
 ├── index.html
 ├── style.css
 ├── app.js
-├── screenshot.png
+├── tic-tac-toe.png
 └── README.md
+
+## 👨‍💻 Author
+
+**Sanket Jadhav**
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-sanket-jadhav-1377x/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Sanket01)
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub!
