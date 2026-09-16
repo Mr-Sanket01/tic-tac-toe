@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #315C2B;
+    text-align: center;
+}
+
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+    font-size: 8vmin;
+    background-color: #274029;
+}
+
+#restart-btn {
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: #60712F;
+    color: #181D0C;
+    border-radius: 1rem;
+    border: none;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+#new-btn {
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: #60712F;
+    color: #181D0C;
+    border-radius: 1rem;
+    border: none;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+#msg {
+    color: #181D0C;
+    font-size: 5vmin;
+}
+
+.msg-Container {
+    height: 220vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.hide {
+    display: none;
+}
+
+h1 {
+    color: #181D0C;
+    margin-top: 30px;
+    font-family: 'Courier New';
+    font-weight: bolder;
+}
