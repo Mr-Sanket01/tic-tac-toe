@@ -7,6 +7,10 @@ The game provides a simple two-player experience with turn management, winner de
 
 [Play Tic-Tac-Toe](https://mr-sanket01.github.io/tic-tac-toe/)
 
+## Preview
+
+![Tic-Tac-Toe Preview](tic-tac-toe.png)
+
 ## Features
 
 - Two-player gameplay
