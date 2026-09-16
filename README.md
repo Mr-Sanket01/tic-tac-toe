@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
-A responsive and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. 
+A responsive and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
+
 The game provides a simple two-player experience with turn management, winner detection, draw detection, and game reset functionality.
 
 ## Live Demo
@@ -46,19 +47,63 @@ tic-tac-toe/
 │
 ├── index.html
 ├── style.css
-├── app.js
+├── script.js
 ├── tic-tac-toe.png
 └── README.md
+```
 
-## 👨‍💻 Author
+## Getting Started
+
+### Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Mr-Sanket01/tic-tac-toe.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd tic-tac-toe
+```
+
+Open `index.html` in your browser.
+
+For development, you can use the **Live Server** extension in VS Code.
+
+## Learning Outcomes
+
+This project helped me practice and understand:
+
+- DOM manipulation
+- Event handling
+- JavaScript functions
+- Arrays and loops
+- Conditional statements
+- CSS styling and classes
+- Game logic implementation
+- Git and GitHub workflow
+
+## Future Improvements
+
+- Add a single-player mode with AI
+- Add score tracking
+- Add difficulty levels
+- Add sound effects
+- Add additional UI themes
+- Improve accessibility
+
+## Author
 
 **Sanket Jadhav**
 
-## 🔗 Connect with Me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-sanket-jadhav-1377x/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-sanket-jadhav-1377x/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Sanket01)
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
+If you like this project, consider giving it a ⭐ on GitHub!
